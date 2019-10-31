@@ -5,6 +5,6 @@ If you are here you have probably read [Supercharge your research: A 10-week pla
 
 We'd love to hear your ideas and what you’d add to the list! 
 
-It's probably easiest to post an Issue about it, but if you'd like to submit a pull request that would be great too! 
+It's probably easiest to [post an Issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) about it, but if you'd like to submit a pull request that would be great too. 
 
 Thanks!
