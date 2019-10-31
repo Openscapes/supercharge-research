@@ -1,16 +1,10 @@
-# Supercharge your research: A 10-week plan for open data science
+# Welcome!
 
 
-[Lowndes et al 2019, Nature Career Column](https://www.nature.com/articles/d41586-019-03335-4)
+If you are here you have probably read [Supercharge your research: A 10-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4) and might have ideas for what alternate topic list look like, or one for the following 10 weeks. 
 
-Julia S. Stewart Lowndes,
-Halley E. Froehlich,
-Allison Horst,
-Nishad Jayasundara,
-Malin L. Pinsky,
-Adrian C. Stier,
-Nina O. Therkildsen &
-Chelsea L. Wood
+We'd love to hear your ideas and what you’d add to the list! 
 
+It's probably easiest to post an Issue about it, but if you'd like to submit a pull request that would be great too! 
 
-Welcome! Coming very soon, this will be a place to share ideas :)
+Thanks!
