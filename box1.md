@@ -14,15 +14,15 @@ Here are suggestions for ten weekly meetings to reshape your research group’s 
 
 Long-term goals: Have clear systems for data management, storage and backup, as well as for documentation of methods and code.
 
-Read: Wilson, G. et al. PLoS Comput. Biol. 13, e1005510 (2017).
+Read: [Wilson, G. et al. PLoS Comput. Biol. 13, e1005510 (2017)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510).
 
-Discuss: What are our data-management systems?
+Discuss: What are our data management systems?
 
 ## Week 3: What are our values? How do we build trust and facilitate collaboration?
 
 Long-term goals: Set the tone for a positive, inclusive culture.
 
-Read: Nature 557, 293 (2018). Also, read Notes on our lab Code of Conduct and Write or Choose a Code of Conduct.
+Read: [Nature 557, 293 (2018)](https://www.nature.com/articles/d41586-018-05142-9). Also, read [Notes on our lab Code of Conduct](http://ivory.idyll.org/blog/2016-notes-on-lab-coc.html) and [Write or Choose a Code of Conduct](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/).
 
 Discuss: How do these topics align with our values?
 
@@ -40,7 +40,7 @@ Task: Create and organize a Google Drive for the group. Explore Google Slides an
 
 Long-term goals: Reduce barriers to remote participation, and enable asynchronous collaboration..
 
-Read: GitHub for Project Management.
+Read: [GitHub for Project Management](https://openscapes.github.io/series/github-issues.html).
 
 Discuss: What programs do we use, and what accounts does our institution have?
 
@@ -50,7 +50,7 @@ Task: Explore software options for video conferencing, group chat and project ma
 
 Long-term goals: Use collaborative versioning software, and think ahead for ‘future you’ and ‘future us’.
 
-Read: Bryan, J. Am. Stat. 72, 20–27 (2017). Also, read Fishbowl Chat #1.
+Read: [Bryan, J. Am. Stat. 72, 20–27 (2017)](https://doi.org/10.1080/00031305.2017.1399928) – or [as PeerJ preprint](https://peerj.com/preprints/3159/) Also, read [Fishbowl Chat #1](http://pinsky.marine.rutgers.edu/fishbowl-chat-1/).
 
 Discuss: How can we help the whole group to use version control collaboratively?
 
@@ -58,7 +58,7 @@ Discuss: How can we help the whole group to use version control collaboratively?
 
 Long-term goals: Adopt shared practices so that it’s easier to collaborate using code.
 
-Read: Bryan, J. & Hester, J. What They Forgot to Teach You About R Ch. 1–4 (2019). Also, read Ross, Z., Wickham, H. & Robinson, D. Preprint at PeerJ Preprints https://doi.org/10.7287/peerj.preprints.3180v1 (2017).
+Read: [Bryan, J. & Hester, J. What They Forgot to Teach You About R Ch. 1–4 (2019)](https://whattheyforgot.org/). Also, read [Ross, Z., Wickham, H. & Robinson, D. (2017)](https://doi.org/10.7287/peerj.preprints.3180v1).
 
 Discuss: How do we organize files, code and projects? Could we adopt shared conventions?
 
@@ -66,7 +66,7 @@ Discuss: How do we organize files, code and projects? Could we adopt shared conv
 
 Long-term goals: Promote good data-entry etiquette and keep raw data separate from analyses.
 
-Read: Broman, K. W. & Woo, K. H. Am. Stat. 72, 2–10 (2017).
+Read: [Broman, K. W. & Woo, K. H. Am. Stat. 72, 2–10 (2017)](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989).
 
 Discuss: Do we keep raw data raw and recorded with future analyses in mind?
 
@@ -74,7 +74,7 @@ Discuss: Do we keep raw data raw and recorded with future analyses in mind?
 
 Long-term goals: Create a strategy for onboarding and offboarding members that promotes openness and inclusion.
 
-Read: How we work: Onboarding.
+Read: [How we work: Onboarding](https://github.com/pinskylab/how_we_work/blob/master/onboarding.md).
 
 Discuss: What would help to onboard new group members?
 
@@ -86,5 +86,5 @@ Long-term goals: Create a shared vision for future meetings so they provide a mi
 
 Discuss: How can we set topics, and how do we rotate who leads?
 
-Task: Identify learning opportunities (for example, rOpenSci, R-Ladies or The Carpentries). Work out what allies you have at your institution (such as data librarians or coding clubs).
+Task: Identify learning opportunities (for example, [rOpenSci](https://ropensci.org/), [R-Ladies](https://rladies.org/) or [The Carpentries](https://carpentries.org/)). Work out what allies you have at your institution (such as data librarians or coding clubs).
 
