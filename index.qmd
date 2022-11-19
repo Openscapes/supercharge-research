@@ -1,0 +1,25 @@
+---
+title: "Supercharge your research: a ten-week plan for open data science"
+toc: true
+---
+
+This article was published in October 2019 at [Nature Careers](https://www.nature.com/articles/d41586-019-03335-4) (DOI: [10.1038/d41586-019-03335-4](https://doi.org/10.1038/d41586-019-03335-4)).  
+Below is the full text of the article.
+
+
+
+## Article text.
+
+{{< include article.md >}}
+
+## Images.
+
+![Seaside Chats, illustration by Allison Horst.](images/horst-seaside-chats.png){fig-alt="An illustration of three people, inside with laptops. One is standing, pointing to a wall where they have visualized data tables being joined. There are sticky notes on the wall. Outside the big window, the mountain ridges are lined with data points" fig-align="center" width="361"}
+
+![The inaugural 2019 cohort of Openscapes Champions (minus two, who joined via Zoom)](images/openscapesing-6thfloor.jpg){fig-alt="A group of six scientists sitting around a glass table with a sunlit balcony nearby, with laptops out talking and laughing" fig-align="center" width="334"}
+
+
+## Box 1.
+
+{{< include box1.md >}}
+
