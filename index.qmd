@@ -4,7 +4,7 @@ toc: true
 ---
 
 This article was published in October 2019 at [Nature](https://www.nature.com/articles/d41586-019-03335-4) (DOI: [10.1038/d41586-019-03335-4](https://doi.org/10.1038/d41586-019-03335-4)).  
-Below is the full text of the article ([source repository](https://github.com/openscapes/supercharge-your-research/)). 
+Below is the full text of the article ([source repository](https://github.com/openscapes/supercharge-research/)). 
 
 
 
